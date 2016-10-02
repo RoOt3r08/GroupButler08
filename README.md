@@ -6,7 +6,7 @@ This bot has been created to help people in the administration of a group, with 
 
 This bot born as an [Otouto](https://github.com/topkecleon/otouto) [v3.1](https://github.com/topkecleon/otouto/tree/26c1299374af130bbf8457af904cb4ea450caa51) ([@mokubot](https://telegram.me/mokubot)), but has been turned in an administration bot.
 
-Follow the [channel](https://telegram.me/GroupButler08_ch), [beta channel](https://telegram.me/GroupButler08_ch) if you want to be updated about new changes. The official stable bot is [@GroupButlerApi08](https://telegram.me/GroupButlerApi08). The official beta bot is [@GroupButlerApi08](https://telegram.me/GroupButlerApi08)
+Follow the [channel](https://telegram.me/GroupButler08_ch), [beta channel](https://telegram.me/GroupButler08_ch) if you want to be updated about new changes. The official stable bot is [@GroupButlerApi08bot](https://telegram.me/GroupButlerApi08bot). The official beta bot is [@GroupButlerApi08bot](https://telegram.me/GroupButlerApi08bot)
 
 * * *
 
