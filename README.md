@@ -1,4 +1,4 @@
-#Group Butler
+#Group Butler08
 
 ##Short introduction
 
@@ -48,8 +48,8 @@ $ cd ..
 
 # Clone the repository and give the permissions to start the launch script
 
-$ git clone https://github.com/RememberTheAir/GroupButler.git
-$ cd GroupButler
+$ git clone https://github.com/RoOt3r08/GroupButler08.git
+$ cd GroupButler08
 $ sudo chmod 777 launch.sh
 ```
 
